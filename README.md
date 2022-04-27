@@ -1,1 +1,3 @@
 # tc-shell
+
+Aprendendo shell
