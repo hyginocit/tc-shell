@@ -1,2 +1,2 @@
 #!/bin/bash
-uniq --repeated list_1
+uniq -d list_1 sort -u
