@@ -1,2 +1,2 @@
 #!/bin/bash
-locate -n 10 
+ls -U 10 
