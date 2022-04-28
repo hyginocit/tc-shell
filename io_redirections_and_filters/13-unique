@@ -1,2 +1,3 @@
 #!/bin/bash
-uniq -d list_1
+uniq -u list_1
+ 
