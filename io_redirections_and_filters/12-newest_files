@@ -1,2 +1,2 @@
 #!/bin/bash
-sort -k2M -k3n -k4 locate -n 10 
+locate -n 10 
